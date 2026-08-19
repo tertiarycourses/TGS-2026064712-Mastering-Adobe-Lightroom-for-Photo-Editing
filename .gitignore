@@ -1,0 +1,14 @@
+.DS_Store
+.env
+.claude/
+assessment/
+reference/
+courseware/assets/
+courseware/build/
+courseware/slide_map.json
+__pycache__/
+*.pyc
+*.tmp
+*.log
+archive/
+qa-renders/
